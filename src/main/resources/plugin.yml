@@ -1,0 +1,6 @@
+name: nohunger
+version: '1.0-SNAPSHOT'
+main: org.nohunger.Nohunger
+api-version: '1.21'
+authors: [ NewBlockTeam ]
+website: https://newblock.top
